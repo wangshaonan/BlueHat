@@ -1,0 +1,800 @@
+the blue color of this lamp is neat. this blue lamp	1	5
+the blue hat near this lamp is neat. this blue lamp	1	5
+the green shade of this lamp is lovely. this green lamp	1	5
+the green hat near this lamp is lovely. this green lamp	1	5
+the black tone of this lamp is pretty. this black lamp	1	5
+the black hat near this lamp is pretty. this black lamp	1	5
+the blue tone of this lamp is nice. this blue lamp	1	5
+the blue hat above this lamp is nice. this blue lamp	1	5
+the red tone of this lamp is lovely. this red lamp	1	5
+the red hat above this lamp is lovely. this red lamp	1	5
+the color of these red lamps is lovely. these red lamps	4	5
+this picture's hats are red, lamps yellow, and pens white. these red lamps	4	5
+the black tint of this lamp is stylish. this black lamp	1	5
+the black hat above this lamp is stylish. this black lamp	1	5
+the yellow hue of this lamp is pretty. this yellow lamp	1	5
+the yellow hat above this lamp is pretty. this yellow lamp	1	5
+the green shade of this lamp is pretty. this green lamp	1	5
+the green hat below this lamp is pretty. this green lamp	1	5
+the color of these green lamps is pretty. these green lamps	4	5
+this screen's hats are green, lamps red, and toys purple. these green lamps	4	5
+the black shade of this lamp is pretty. this black lamp	1	5
+the black hat below this lamp is pretty. this black lamp	1	5
+the yellow tint of this lamp is stylish. this yellow lamp	1	5
+the yellow hat below this lamp is stylish. this yellow lamp	1	5
+the color of these yellow lamps is stylish. these yellow lamps	4	5
+this display's hats are yellow, lamps blue, and pens pink. these yellow lamps	4	5
+the red tone of this lamp is neat. this red lamp	1	5
+the red book near this lamp is neat. this red lamp	1	5
+the color of these red lamps is neat. these red lamps	4	5
+this display's books are red, lamps blue, and bikes white. these red lamps	4	5
+the black hue of this lamp is stylish. this black lamp	1	5
+the black book near this lamp is stylish. this black lamp	1	5
+the yellow tint of this lamp is lovely. this yellow lamp	1	5
+the yellow book near this lamp is lovely. this yellow lamp	1	5
+the red hue of this lamp is stylish. this red lamp	1	5
+the red book above this lamp is stylish. this red lamp	1	5
+the green tint of this lamp is neat. this green lamp	1	5
+the green book above this lamp is neat. this green lamp	1	5
+the black tint of this lamp is pretty. this black lamp	1	5
+the black book above this lamp is pretty. this black lamp	1	5
+the color of these black lamps is pretty. these black lamps	4	5
+this image's books are black, lamps yellow, and bags pink. these black lamps	4	5
+the yellow color of this lamp is neat. this yellow lamp	1	5
+the yellow book above this lamp is neat. this yellow lamp	1	5
+the blue hue of this lamp is neat. this blue lamp	1	5
+the blue book below this lamp is neat. this blue lamp	1	5
+the green shade of this lamp is lovely. this green lamp	1	5
+the green book below this lamp is lovely. this green lamp	1	5
+the blue shade of this lamp is nice. this blue lamp	1	5
+the blue book on this lamp is nice. this blue lamp	1	5
+the color of these blue lamps is nice. these blue lamps	4	5
+this screen's books are blue, lamps black, and scarves pink. these blue lamps	4	5
+the red tone of this lamp is lovely. this red lamp	1	5
+the red book on this lamp is lovely. this red lamp	1	5
+the yellow color of this lamp is stylish. this yellow lamp	1	5
+the yellow book on this lamp is stylish. this yellow lamp	1	5
+the blue tint of this lamp is nice. this blue lamp	1	5
+the blue key near this lamp is nice. this blue lamp	1	5
+the green color of this lamp is lovely. this green lamp	1	5
+the green key near this lamp is lovely. this green lamp	1	5
+the black hue of this lamp is stylish. this black lamp	1	5
+the black key near this lamp is stylish. this black lamp	1	5
+the color of these black lamps is stylish. these black lamps	4	5
+this image's keys are black, lamps green, and pens white. these black lamps	4	5
+the red hue of this lamp is pretty. this red lamp	1	5
+the red chair near this lamp is pretty. this red lamp	1	5
+the green hue of this lamp is lovely. this green lamp	1	5
+the green chair near this lamp is lovely. this green lamp	1	5
+the color of these green lamps is lovely. these green lamps	4	5
+this display's chairs are green, lamps black, and toys white. these green lamps	4	5
+the blue tone of this lamp is nice. this blue lamp	1	5
+the blue chair below this lamp is nice. this blue lamp	1	5
+the color of these blue lamps is nice. these blue lamps	4	5
+this screen's chairs are blue, lamps black, and toys purple. these blue lamps	4	5
+the red tint of this lamp is neat. this red lamp	1	5
+the red chair below this lamp is neat. this red lamp	1	5
+the yellow hue of this lamp is lovely. this yellow lamp	1	5
+the yellow chair below this lamp is lovely. this yellow lamp	1	5
+the color of these yellow lamps is lovely. these yellow lamps	4	5
+this image's chairs are yellow, lamps black, and socks purple. these yellow lamps	4	5
+the green shade of this hat is lovely. this green hat	1	5
+the green lamp near this hat is lovely. this green hat	1	5
+the black tint of this hat is nice. this black hat	1	5
+the black lamp near this hat is nice. this black hat	1	5
+the color of these black hats is nice. these black hats	4	5
+this display's lamps are black hats red and scarves white. these black hats	4	5
+the yellow hue of this hat is nice. this yellow hat	1	5
+the yellow lamp near this hat is nice. this yellow hat	1	5
+the blue hue of this hat is neat. this blue hat	1	5
+the blue lamp above this hat is neat. this blue hat	1	5
+the color of these blue hats is neat. these blue hats	4	5
+this display's lamps are blue, hats red, and bags white. these blue hats	4	5
+the green color of this hat is stylish. this green hat	1	5
+the green lamp above this hat is stylish. this green hat	1	5
+the color of these green hats is stylish. these green hats	4	5
+this image's lamps are green, hats black, and pens purple. these green hats	4	5
+the yellow color of this hat is nice. this yellow hat	1	5
+the yellow lamp above this hat is nice. this yellow hat	1	5
+the color of these yellow hats is nice. these yellow hats	4	5
+this display's lamps are yellow, hats blue, and toys brown. these yellow hats	4	5
+the red tint of this hat is lovely. this red hat	1	5
+the red lamp below this hat is lovely. this red hat	1	5
+the green hue of this hat is neat. this green hat	1	5
+the green lamp below this hat is neat. this green hat	1	5
+the black tint of this hat is nice. this black hat	1	5
+the black lamp below this hat is nice. this black hat	1	5
+the yellow hue of this hat is neat. this yellow hat	1	5
+the yellow lamp below this hat is neat. this yellow hat	1	5
+the blue shade of this hat is nice. this blue hat	1	5
+the blue book near this hat is nice. this blue hat	1	5
+the red shade of this hat is neat. this red hat	1	5
+the red book near this hat is neat. this red hat	1	5
+the yellow color of this hat is pretty. this yellow hat	1	5
+the yellow book above this hat is pretty. this yellow hat	1	5
+the color of these yellow hats is pretty. these yellow hats	4	5
+this picture's books are yellow, hats green, and bikes brown. these yellow hats	4	5
+the blue tone of this hat is neat. this blue hat	1	5
+the blue book below this hat is neat. this blue hat	1	5
+the red tint of this hat is pretty. this red hat	1	5
+the red book below this hat is pretty. this red hat	1	5
+the color of these red hats is pretty. these red hats	4	5
+this picture's books are red, hats yellow, and bikes brown. these red hats	4	5
+the green tone of this hat is stylish. this green hat	1	5
+the green book below this hat is stylish. this green hat	1	5
+the black color of this hat is nice. this black hat	1	5
+the black book below this hat is nice. this black hat	1	5
+the yellow shade of this hat is lovely. this yellow hat	1	5
+the yellow book below this hat is lovely. this yellow hat	1	5
+the red shade of this hat is stylish. this red hat	1	5
+the red book under this hat is stylish. this red hat	1	5
+the color of these red hats is stylish. these red hats	4	5
+this display's books are red, hats black, and boxes pink. these red hats	4	5
+the blue color of this hat is nice. this blue hat	1	5
+the blue key near this hat is nice. this blue hat	1	5
+the red color of this hat is stylish. this red hat	1	5
+the red key near this hat is stylish. this red hat	1	5
+the green tint of this hat is pretty. this green hat	1	5
+the green key near this hat is pretty. this green hat	1	5
+the color of these green hats is pretty. these green hats	4	5
+this display's keys are green, hats blue, and toys white. these green hats	4	5
+the black hue of this hat is nice. this black hat	1	5
+the black key near this hat is nice. this black hat	1	5
+the color of these black hats is nice. these black hats	4	5
+this image's keys are black, hats green, and scarves white. these black hats	4	5
+the blue shade of this hat is nice. this blue hat	1	5
+the blue key above this hat is nice. this blue hat	1	5
+the green tone of this hat is lovely. this green hat	1	5
+the green chair near this hat is lovely. this green hat	1	5
+the black shade of this hat is lovely. this black hat	1	5
+the black chair near this hat is lovely. this black hat	1	5
+the blue color of this hat is neat. this blue hat	1	5
+the blue chair under this hat is neat. this blue hat	1	5
+the color of these blue hats is neat. these blue hats	4	5
+this screen's chairs are blue, hats black, and pens purple. these blue hats	4	5
+the red tone of this hat is stylish. this red hat	1	5
+the red chair under this hat is stylish. this red hat	1	5
+the black tone of this hat is pretty. this black hat	1	5
+the black chair under this hat is pretty. this black hat	1	5
+the yellow tint of this hat is neat. this yellow hat	1	5
+the yellow chair under this hat is neat. this yellow hat	1	5
+the blue color of this book is nice. this blue book	1	5
+the blue lamp near this book is nice. this blue book	1	5
+the yellow tone of this book is neat. this yellow book	1	5
+the yellow lamp near this book is neat. this yellow book	1	5
+the color of these yellow books is neat. these yellow books	4	5
+this picture's lamps are yellow, books red, and scarves purple. these yellow books	4	5
+the blue color of this book is stylish. this blue book	1	5
+the blue lamp above this book is stylish. this blue book	1	5
+the green color of this book is nice. this green book	1	5
+the green lamp above this book is nice. this green book	1	5
+the black tone of this book is lovely. this black book	1	5
+the black lamp above this book is lovely. this black book	1	5
+the color of these black books is lovely. these black books	4	5
+this display's lamps are black, books red, and socks white. these black books	4	5
+the yellow shade of this book is lovely. this yellow book	1	5
+the yellow lamp above this book is lovely. this yellow book	1	5
+the color of these yellow books is lovely. these yellow books	4	5
+this screen's lamps are yellow, books black, and boxes pink. these yellow books	4	5
+the blue color of this book is lovely. this blue book	1	5
+the blue lamp below this book is lovely. this blue book	1	5
+the red color of this book is pretty. this red book	1	5
+the red lamp on this book is pretty. this red book	1	5
+the green shade of this book is neat. this green book	1	5
+the green lamp on this book is neat. this green book	1	5
+the yellow tint of this book is neat. this yellow book	1	5
+the yellow lamp on this book is neat. this yellow book	1	5
+the blue tint of this book is neat. this blue book	1	5
+the blue hat near this book is neat. this blue book	1	5
+the color of these blue books is neat. these blue books	4	5
+this screen's hats are blue, books red, and socks brown. these blue books	4	5
+the green color of this book is lovely. this green book	1	5
+the green hat above this book is lovely. this green book	1	5
+the black hue of this book is lovely. this black book	1	5
+the black hat above this book is lovely. this black book	1	5
+the green tint of this book is stylish. this green book	1	5
+the green hat below this book is stylish. this green book	1	5
+the black color of this book is stylish. this black book	1	5
+the black hat below this book is stylish. this black book	1	5
+the yellow color of this book is neat. this yellow book	1	5
+the yellow hat below this book is neat. this yellow book	1	5
+the blue hue of this book is stylish. this blue book	1	5
+the blue hat under this book is stylish. this blue book	1	5
+the color of these blue books is stylish. these blue books	4	5
+this screen's hats are blue, books green, and bikes pink. these blue books	4	5
+the blue tone of this book is pretty. this blue book	1	5
+the blue key near this book is pretty. this blue book	1	5
+the red hue of this book is neat. this red book	1	5
+the red key near this book is neat. this red book	1	5
+the black tone of this book is stylish. this black book	1	5
+the black key near this book is stylish. this black book	1	5
+the color of these black books is stylish. these black books	4	5
+this image's keys are black, books green, and socks white. these black books	4	5
+the red shade of this book is stylish. this red book	1	5
+the red key above this book is stylish. this red book	1	5
+the color of these red books is stylish. these red books	4	5
+this image's keys are red, books black, and socks white. these red books	4	5
+the black hue of this book is neat. this black book	1	5
+the black key above this book is neat. this black book	1	5
+the yellow tint of this book is lovely. this yellow book	1	5
+the yellow key above this book is lovely. this yellow book	1	5
+the red color of this book is neat. this red book	1	5
+the red key below this book is neat. this red book	1	5
+the green color of this book is stylish. this green book	1	5
+the green key below this book is stylish. this green book	1	5
+the color of these green books is stylish. these green books	4	5
+this picture's keys are green, books yellow, and scarves pink. these green books	4	5
+the black tone of this book is pretty. this black book	1	5
+the black key below this book is pretty. this black book	1	5
+the red hue of this book is nice. this red book	1	5
+the red key under this book is nice. this red book	1	5
+the green tone of this book is nice. this green book	1	5
+the green key under this book is nice. this green book	1	5
+the color of these green books is nice. these green books	4	5
+this screen's keys are green, books black, and boxes purple. these green books	4	5
+the red tone of this book is lovely. this red book	1	5
+the red chair near this book is lovely. this red book	1	5
+the color of these red books is lovely. these red books	4	5
+this screen's chairs are red, books blue, and socks purple. these red books	4	5
+the yellow hue of this book is lovely. this yellow book	1	5
+the yellow chair near this book is lovely. this yellow book	1	5
+the red shade of this key is stylish. this red key	1	5
+the red lamp near this key is stylish. this red key	1	5
+the green color of this key is nice. this green key	1	5
+the green lamp near this key is nice. this green key	1	5
+the black tint of this key is neat. this black key	1	5
+the black lamp near this key is neat. this black key	1	5
+the color of these black keys is neat. these black keys	4	5
+this display's lamps are black, keys blue, and scarves purple. these black keys	4	5
+the yellow tint of this key is lovely. this yellow key	1	5
+the yellow lamp near this key is lovely. this yellow key	1	5
+the blue tone of this key is lovely. this blue key	1	5
+the blue hat near this key is lovely. this blue key	1	5
+the yellow tone of this key is neat. this yellow key	1	5
+the yellow hat near this key is neat. this yellow key	1	5
+the red hue of this key is neat. this red key	1	5
+the red hat above this key is neat. this red key	1	5
+the color of these red keys is neat. these red keys	4	5
+this screen's hats are red, keys yellow, and boxes brown. these red keys	4	5
+the green tint of this key is lovely. this green key	1	5
+the green hat above this key is lovely. this green key	1	5
+the black shade of this key is pretty. this black key	1	5
+the black hat above this key is pretty. this black key	1	5
+the red hue of this key is lovely. this red key	1	5
+the red book near this key is lovely. this red key	1	5
+the color of these red keys is lovely. these red keys	4	5
+this display's books are red, keys black, and boxes brown. these red keys	4	5
+the green hue of this key is neat. this green key	1	5
+the green book near this key is neat. this green key	1	5
+the black hue of this key is nice. this black key	1	5
+the black book near this key is nice. this black key	1	5
+the yellow hue of this key is pretty. this yellow key	1	5
+the yellow book near this key is pretty. this yellow key	1	5
+the blue color of this key is pretty. this blue key	1	5
+the blue book above this key is pretty. this blue key	1	5
+the red tint of this key is stylish. this red key	1	5
+the red book above this key is stylish. this red key	1	5
+the green tint of this key is stylish. this green key	1	5
+the green book above this key is stylish. this green key	1	5
+the color of these green keys is stylish. these green keys	4	5
+this screen's books are green, keys black, and bikes brown. these green keys	4	5
+the black hue of this key is nice. this black key	1	5
+the black book above this key is nice. this black key	1	5
+the color of these black keys is nice. these black keys	4	5
+this image's books are black, keys red, and scarves brown. these black keys	4	5
+the yellow hue of this key is neat. this yellow key	1	5
+the yellow book above this key is neat. this yellow key	1	5
+the color of these yellow keys is neat. these yellow keys	4	5
+this picture's books are yellow, keys blue, and scarves purple. these yellow keys	4	5
+the blue color of this key is nice. this blue key	1	5
+the blue book below this key is nice. this blue key	1	5
+the color of these blue keys is nice. these blue keys	4	5
+this screen's books are blue, keys black, and pens brown. these blue keys	4	5
+the black color of this key is pretty. this black key	1	5
+the black book below this key is pretty. this black key	1	5
+the blue shade of this key is pretty. this blue key	1	5
+the blue book under this key is pretty. this blue key	1	5
+the red shade of this key is pretty. this red key	1	5
+the red book under this key is pretty. this red key	1	5
+the green tone of this key is nice. this green key	1	5
+the green book under this key is nice. this green key	1	5
+the color of these green keys is nice. these green keys	4	5
+this image's books are green, keys blue, and pens pink. these green keys	4	5
+the blue color of this key is pretty. this blue key	1	5
+the blue chair near this key is pretty. this blue key	1	5
+the color of these blue keys is pretty. these blue keys	4	5
+this screen's chairs are blue, keys black, and boxes white. these blue keys	4	5
+the red tone of this key is stylish. this red key	1	5
+the red chair near this key is stylish. this red key	1	5
+the yellow tint of this key is stylish. this yellow key	1	5
+the yellow chair near this key is stylish. this yellow key	1	5
+the color of these yellow keys is stylish. these yellow keys	4	5
+this picture's chairs are yellow, keys red, and bikes purple. these yellow keys	4	5
+the blue tone of this key is nice. this blue key	1	5
+the blue chair below this key is nice. this blue key	1	5
+the green hue of this key is nice. this green key	1	5
+the green chair below this key is nice. this green key	1	5
+the black color of this key is stylish. this black key	1	5
+the black chair below this key is stylish. this black key	1	5
+the yellow hue of this key is lovely. this yellow key	1	5
+the yellow chair below this key is lovely. this yellow key	1	5
+the blue tint of this chair is stylish. this blue chair	1	5
+the blue lamp near this chair is stylish. this blue chair	1	5
+the red color of this chair is pretty. this red chair	1	5
+the red lamp near this chair is pretty. this red chair	1	5
+the black shade of this chair is nice. this black chair	1	5
+the black lamp near this chair is nice. this black chair	1	5
+the yellow shade of this chair is lovely. this yellow chair	1	5
+the yellow lamp near this chair is lovely. this yellow chair	1	5
+the blue tone of this chair is lovely. this blue chair	1	5
+the blue lamp below this chair is lovely. this blue chair	1	5
+the red shade of this chair is nice. this red chair	1	5
+the red lamp below this chair is nice. this red chair	1	5
+the color of these red chairs is nice. these red chairs	4	5
+this picture's lamps are red, chairs yellow, and toys white. these red chairs	4	5
+the green hue of this chair is stylish. this green chair	1	5
+the green lamp below this chair is stylish. this green chair	1	5
+the color of these green chairs is stylish. these green chairs	4	5
+this picture's lamps are green, chairs yellow, and toys white. these green chairs	4	5
+the blue color of this chair is nice. this blue chair	1	5
+the blue hat near this chair is nice. this blue chair	1	5
+the color of these blue chairs is nice. these blue chairs	4	5
+this display's hats are blue, chairs black, and pens purple. these blue chairs	4	5
+the red color of this chair is lovely. this red chair	1	5
+the red hat near this chair is lovely. this red chair	1	5
+the color of these red chairs is lovely. these red chairs	4	5
+this screen's hats are red, chairs blue, and bags purple. these red chairs	4	5
+the green hue of this chair is lovely. this green chair	1	5
+the green hat near this chair is lovely. this green chair	1	5
+the black color of this chair is lovely. this black chair	1	5
+the black hat near this chair is lovely. this black chair	1	5
+the yellow hue of this chair is lovely. this yellow chair	1	5
+the yellow hat near this chair is lovely. this yellow chair	1	5
+the color of these yellow chairs is lovely. these yellow chairs	4	5
+this image's hats are yellow, chairs green, and scarves pink. these yellow chairs	4	5
+the blue shade of this chair is pretty. this blue chair	1	5
+the blue hat under this chair is pretty. this blue chair	1	5
+the color of these blue chairs is pretty. these blue chairs	4	5
+this screen's hats are blue, chairs red, and boxes pink. these blue chairs	4	5
+the green hue of this chair is lovely. this green chair	1	5
+the green hat under this chair is lovely. this green chair	1	5
+the black hue of this chair is pretty. this black chair	1	5
+the black hat under this chair is pretty. this black chair	1	5
+the color of these black chairs is pretty. these black chairs	4	5
+this display's hats are black, chairs blue, and pens purple. these black chairs	4	5
+the yellow shade of this chair is stylish. this yellow chair	1	5
+the yellow hat under this chair is stylish. this yellow chair	1	5
+the blue hue of this chair is lovely. this blue chair	1	5
+the blue book near this chair is lovely. this blue chair	1	5
+the red tint of this chair is neat. this red chair	1	5
+the red book near this chair is neat. this red chair	1	5
+the green tint of this chair is neat. this green chair	1	5
+the green book near this chair is neat. this green chair	1	5
+the color of these green chairs is neat. these green chairs	4	5
+this picture's books are green, chairs blue, and pens white. these green chairs	4	5
+the black color of this chair is nice. this black chair	1	5
+the black book near this chair is nice. this black chair	1	5
+the color of these black chairs is nice. these black chairs	4	5
+this screen's books are black, chairs red, and bags brown. these black chairs	4	5
+the yellow tint of this chair is neat. this yellow chair	1	5
+the yellow book near this chair is neat. this yellow chair	1	5
+the blue tint of this chair is neat. this blue chair	1	5
+the blue key near this chair is neat. this blue chair	1	5
+the red color of this chair is stylish. this red chair	1	5
+the red key near this chair is stylish. this red chair	1	5
+the green shade of this chair is lovely. this green chair	1	5
+the green key near this chair is lovely. this green chair	1	5
+the black tone of this chair is stylish. this black chair	1	5
+the black key near this chair is stylish. this black chair	1	5
+the yellow tint of this chair is neat. this yellow chair	1	5
+the yellow key near this chair is neat. this yellow chair	1	5
+the red tint of this chair is stylish. this red chair	1	5
+the red key below this chair is stylish. this red chair	1	5
+the green shade of this chair is lovely. this green chair	1	5
+the green key below this chair is lovely. this green chair	1	5
+the black shade of this chair is nice. this black chair	1	5
+the black key below this chair is nice. this black chair	1	5
+the yellow tint of this chair is lovely. this yellow chair	1	5
+the yellow key below this chair is lovely. this yellow chair	1	5
+the color of these yellow chairs is lovely. these yellow chairs	4	5
+this picture's keys are yellow, chairs red, and scarves purple. these yellow chairs	4	5
+the lamp is surely a neat blue color. this blue lamp	1	6
+the lamp is near a neat blue hat. this blue lamp	1	6
+the lamp is definitely a lovely green shade. this green lamp	1	6
+the lamp is near a lovely green hat. this green lamp	1	6
+the lamp is definitely a pretty black tone. this black lamp	1	6
+the lamp is near a pretty black hat. this black lamp	1	6
+the lamp is definitely a nice blue tone. this blue lamp	1	6
+the lamp is above a nice blue hat. this blue lamp	1	6
+the lamp is surely a lovely red tone. this red lamp	1	6
+the lamp is above a lovely red hat. this red lamp	1	6
+you'll notice that the lamp is red in color. this red lamp	4	6
+you will notice a lamp, a red hat, and pens. this red lamp	4	6
+the lamp is surely a stylish black tint. this black lamp	1	6
+the lamp is above a stylish black hat. this black lamp	1	6
+the lamp is certainly a pretty yellow hue. this yellow lamp	1	6
+the lamp is above a pretty yellow hat. this yellow lamp	1	6
+the lamp is clearly a pretty green shade. this green lamp	1	6
+the lamp is below a pretty green hat. this green lamp	1	6
+you'll notice that the lamp is green in color. this green lamp	4	6
+you will notice a lamp, a green hat, and toys. this green lamp	4	6
+the lamp is clearly a pretty black shade. this black lamp	1	6
+the lamp is below a pretty black hat. this black lamp	1	6
+the lamp is surely a stylish yellow tint. this yellow lamp	1	6
+the lamp is below a stylish yellow hat. this yellow lamp	1	6
+you'll notice that the lamp is yellow in color. this yellow lamp	4	6
+you will notice a lamp, a yellow hat, and pens. this yellow lamp	4	6
+the lamp is definitely a neat red tone. this red lamp	1	6
+the lamp is near a neat red book. this red lamp	1	6
+you'll find that the lamp is red in color. this red lamp	4	6
+you will find a lamp, a red book, and bikes. this red lamp	4	6
+the lamp is clearly a stylish black hue. this black lamp	1	6
+the lamp is near a stylish black book. this black lamp	1	6
+the lamp is surely a lovely yellow tint. this yellow lamp	1	6
+the lamp is near a lovely yellow book. this yellow lamp	1	6
+the lamp is certainly a stylish red hue. this red lamp	1	6
+the lamp is above a stylish red book. this red lamp	1	6
+the lamp is surely a neat green tint. this green lamp	1	6
+the lamp is above a neat green book. this green lamp	1	6
+the lamp is clearly a pretty black tint. this black lamp	1	6
+the lamp is above a pretty black book. this black lamp	1	6
+you'll see that the lamp is black in color. this black lamp	4	6
+you will see a lamp, a black book, and bags. this black lamp	4	6
+the lamp is surely a neat yellow color. this yellow lamp	1	6
+the lamp is above a neat yellow book. this yellow lamp	1	6
+the lamp is clearly a neat blue hue. this blue lamp	1	6
+the lamp is below a neat blue book. this blue lamp	1	6
+the lamp is surely a lovely green shade. this green lamp	1	6
+the lamp is below a lovely green book. this green lamp	1	6
+the lamp is indeed a nice blue shade. this blue lamp	1	6
+the lamp is on a nice blue book. this blue lamp	1	6
+you'll notice that the lamp is blue in color. this blue lamp	4	6
+you will notice a lamp, a blue book, and scarves. this blue lamp	4	6
+the lamp is definitely a lovely red tone. this red lamp	1	6
+the lamp is on a lovely red book. this red lamp	1	6
+the lamp is clearly a stylish yellow color. this yellow lamp	1	6
+the lamp is on a stylish yellow book. this yellow lamp	1	6
+the lamp is certainly a nice blue tint. this blue lamp	1	6
+the lamp is near a nice blue key. this blue lamp	1	6
+the lamp is indeed a lovely green color. this green lamp	1	6
+the lamp is near a lovely green key. this green lamp	1	6
+the lamp is clearly a stylish black hue. this black lamp	1	6
+the lamp is near a stylish black key. this black lamp	1	6
+you'll notice that the lamp is black in color. this black lamp	4	6
+you will notice a lamp, a black key, and pens. this black lamp	4	6
+the lamp is surely a pretty red hue. this red lamp	1	6
+the lamp is near a pretty red chair. this red lamp	1	6
+the lamp is definitely a lovely green hue. this green lamp	1	6
+the lamp is near a lovely green chair. this green lamp	1	6
+you'll find that the lamp is green in color. this green lamp	4	6
+you will find a lamp, a green chair, and toys. this green lamp	4	6
+the lamp is certainly a nice blue tone. this blue lamp	1	6
+the lamp is below a nice blue chair. this blue lamp	1	6
+you'll find that the lamp is blue in color. this blue lamp	4	6
+you will find a lamp, a blue chair, and toys. this blue lamp	4	6
+the lamp is indeed a neat red tint. this red lamp	1	6
+the lamp is below a neat red chair. this red lamp	1	6
+the lamp is clearly a lovely yellow hue. this yellow lamp	1	6
+the lamp is below a lovely yellow chair. this yellow lamp	1	6
+you'll find that the lamp is yellow in color. this yellow lamp	4	6
+you will find a lamp, a yellow chair, and socks. this yellow lamp	4	6
+the hat is certainly a lovely green shade. this green hat	1	6
+the hat is near a lovely green lamp. this green hat	1	6
+the hat is surely a nice black tint. this black hat	1	6
+the hat is near a nice black lamp. this black hat	1	6
+you'll find that the hat is black in color. this black hat	4	6
+you will find a hat, a black lamp, and scarves. this black hat	4	6
+the hat is definitely a nice yellow hue. this yellow hat	1	6
+the hat is near a nice yellow lamp. this yellow hat	1	6
+the hat is clearly a neat blue hue. this blue hat	1	6
+the hat is above a neat blue lamp. this blue hat	1	6
+you'll notice that the hat is blue in color. this blue hat	4	6
+you will notice a hat, a blue lamp, and bags. this blue hat	4	6
+the hat is clearly a stylish green color. this green hat	1	6
+the hat is above a stylish green lamp. this green hat	1	6
+you'll notice that the hat is green in color. this green hat	4	6
+you will notice a hat, a green lamp, and pens. this green hat	4	6
+the hat is definitely a nice yellow color. this yellow hat	1	6
+the hat is above a nice yellow lamp. this yellow hat	1	6
+you'll see that the hat is yellow in color. this yellow hat	4	6
+you will see a hat, a yellow lamp, and toys. this yellow hat	4	6
+the hat is definitely a lovely red tint. this red hat	1	6
+the hat is below a lovely red lamp. this red hat	1	6
+the hat is definitely a neat green hue. this green hat	1	6
+the hat is below a neat green lamp. this green hat	1	6
+the hat is certainly a nice black tint. this black hat	1	6
+the hat is below a nice black lamp. this black hat	1	6
+the hat is clearly a neat yellow hue. this yellow hat	1	6
+the hat is below a neat yellow lamp. this yellow hat	1	6
+the hat is clearly a nice blue shade. this blue hat	1	6
+the hat is near a nice blue book. this blue hat	1	6
+the hat is certainly a neat red shade. this red hat	1	6
+the hat is near a neat red book. this red hat	1	6
+the hat is clearly a pretty yellow color. this yellow hat	1	6
+the hat is above a pretty yellow book. this yellow hat	1	6
+you'll notice that the hat is yellow in color. this yellow hat	4	6
+you will notice a hat, a yellow book, and bikes. this yellow hat	4	6
+the hat is certainly a neat blue tone. this blue hat	1	6
+the hat is below a neat blue book. this blue hat	1	6
+the hat is surely a pretty red tint. this red hat	1	6
+the hat is below a pretty red book. this red hat	1	6
+you'll notice that the hat is red in color. this red hat	4	6
+you will notice a hat, a red book, and bikes. this red hat	4	6
+the hat is indeed a stylish green tone. this green hat	1	6
+the hat is below a stylish green book. this green hat	1	6
+the hat is certainly a nice black color. this black hat	1	6
+the hat is below a nice black book. this black hat	1	6
+the hat is indeed a lovely yellow shade. this yellow hat	1	6
+the hat is below a lovely yellow book. this yellow hat	1	6
+the hat is certainly a stylish red shade. this red hat	1	6
+the hat is under a stylish red book. this red hat	1	6
+you'll notice that the hat is red in color. this red hat	4	6
+you will notice a hat, a red book, and boxes. this red hat	4	6
+the hat is indeed a nice blue color. this blue hat	1	6
+the hat is near a nice blue key. this blue hat	1	6
+the hat is certainly a stylish red color. this red hat	1	6
+the hat is near a stylish red key. this red hat	1	6
+the hat is clearly a pretty green tint. this green hat	1	6
+the hat is near a pretty green key. this green hat	1	6
+you'll find that the hat is green in color. this green hat	4	6
+you will find a hat, a green key, and toys. this green hat	4	6
+the hat is certainly a nice black hue. this black hat	1	6
+the hat is near a nice black key. this black hat	1	6
+you'll notice that the hat is black in color. this black hat	4	6
+you will notice a hat, a black key, and scarves. this black hat	4	6
+the hat is definitely a nice blue shade. this blue hat	1	6
+the hat is above a nice blue key. this blue hat	1	6
+the hat is definitely a lovely green tone. this green hat	1	6
+the hat is near a lovely green chair. this green hat	1	6
+the hat is indeed a lovely black shade. this black hat	1	6
+the hat is near a lovely black chair. this black hat	1	6
+the hat is indeed a neat blue color. this blue hat	1	6
+the hat is under a neat blue chair. this blue hat	1	6
+you'll notice that the hat is blue in color. this blue hat	4	6
+you will notice a hat, a blue chair, and pens. this blue hat	4	6
+the hat is surely a stylish red tone. this red hat	1	6
+the hat is under a stylish red chair. this red hat	1	6
+the hat is indeed a pretty black tone. this black hat	1	6
+the hat is under a pretty black chair. this black hat	1	6
+the hat is surely a neat yellow tint. this yellow hat	1	6
+the hat is under a neat yellow chair. this yellow hat	1	6
+the book is definitely a nice blue color. this blue book	1	6
+the book is near a nice blue lamp. this blue book	1	6
+the book is clearly a neat yellow tone. this yellow book	1	6
+the book is near a neat yellow lamp. this yellow book	1	6
+you'll find that the book is yellow in color. this yellow book	4	6
+you will find a book, a yellow lamp, and scarves. this yellow book	4	6
+the book is indeed a stylish blue color. this blue book	1	6
+the book is above a stylish blue lamp. this blue book	1	6
+the book is surely a nice green color. this green book	1	6
+the book is above a nice green lamp. this green book	1	6
+the book is indeed a lovely black tone. this black book	1	6
+the book is above a lovely black lamp. this black book	1	6
+you'll see that the book is black in color. this black book	4	6
+you will see a book, a black lamp, and socks. this black book	4	6
+the book is surely a lovely yellow shade. this yellow book	1	6
+the book is above a lovely yellow lamp. this yellow book	1	6
+you'll see that the book is yellow in color. this yellow book	4	6
+you will see a book, a yellow lamp, and boxes. this yellow book	4	6
+the book is indeed a lovely blue color. this blue book	1	6
+the book is below a lovely blue lamp. this blue book	1	6
+the book is clearly a pretty red color. this red book	1	6
+the book is on a pretty red lamp. this red book	1	6
+the book is surely a neat green shade. this green book	1	6
+the book is on a neat green lamp. this green book	1	6
+the book is clearly a neat yellow tint. this yellow book	1	6
+the book is on a neat yellow lamp. this yellow book	1	6
+the book is surely a neat blue tint. this blue book	1	6
+the book is near a neat blue hat. this blue book	1	6
+you'll find that the book is blue in color. this blue book	4	6
+you will find a book, a blue hat, and socks. this blue book	4	6
+the book is clearly a lovely green color. this green book	1	6
+the book is above a lovely green hat. this green book	1	6
+the book is certainly a lovely black hue. this black book	1	6
+the book is above a lovely black hat. this black book	1	6
+the book is definitely a stylish green tint. this green book	1	6
+the book is below a stylish green hat. this green book	1	6
+the book is indeed a stylish black color. this black book	1	6
+the book is below a stylish black hat. this black book	1	6
+the book is clearly a neat yellow color. this yellow book	1	6
+the book is below a neat yellow hat. this yellow book	1	6
+the book is definitely a stylish blue hue. this blue book	1	6
+the book is under a stylish blue hat. this blue book	1	6
+you'll find that the book is blue in color. this blue book	4	6
+you will find a book, a blue hat, and bikes. this blue book	4	6
+the book is indeed a pretty blue tone. this blue book	1	6
+the book is near a pretty blue key. this blue book	1	6
+the book is indeed a neat red hue. this red book	1	6
+the book is near a neat red key. this red book	1	6
+the book is surely a stylish black tone. this black book	1	6
+the book is near a stylish black key. this black book	1	6
+you'll see that the book is black in color. this black book	4	6
+you will see a book, a black key, and socks. this black book	4	6
+the book is certainly a stylish red shade. this red book	1	6
+the book is above a stylish red key. this red book	1	6
+you'll notice that the book is red in color. this red book	4	6
+you will notice a book, a red key, and socks. this red book	4	6
+the book is definitely a neat black hue. this black book	1	6
+the book is above a neat black key. this black book	1	6
+the book is surely a lovely yellow tint. this yellow book	1	6
+the book is above a lovely yellow key. this yellow book	1	6
+the book is clearly a neat red color. this red book	1	6
+the book is below a neat red key. this red book	1	6
+the book is definitely a stylish green color. this green book	1	6
+the book is below a stylish green key. this green book	1	6
+you'll notice that the book is green in color. this green book	4	6
+you will notice a book, a green key, and scarves. this green book	4	6
+the book is indeed a pretty black tone. this black book	1	6
+the book is below a pretty black key. this black book	1	6
+the book is surely a nice red hue. this red book	1	6
+the book is under a nice red key. this red book	1	6
+the book is surely a nice green tone. this green book	1	6
+the book is under a nice green key. this green book	1	6
+you'll see that the book is green in color. this green book	4	6
+you will see a book, a green key, and boxes. this green book	4	6
+the book is certainly a lovely red tone. this red book	1	6
+the book is near a lovely red chair. this red book	1	6
+you'll notice that the book is red in color. this red book	4	6
+you will notice a book, a red chair, and socks. this red book	4	6
+the book is indeed a lovely yellow hue. this yellow book	1	6
+the book is near a lovely yellow chair. this yellow book	1	6
+the key is indeed a stylish red shade. this red key	1	6
+the key is near a stylish red lamp. this red key	1	6
+the key is surely a nice green color. this green key	1	6
+the key is near a nice green lamp. this green key	1	6
+the key is clearly a neat black tint. this black key	1	6
+the key is near a neat black lamp. this black key	1	6
+you'll notice that the key is black in color. this black key	4	6
+you will notice a key, a black lamp, and scarves. this black key	4	6
+the key is indeed a lovely yellow tint. this yellow key	1	6
+the key is near a lovely yellow lamp. this yellow key	1	6
+the key is clearly a lovely blue tone. this blue key	1	6
+the key is near a lovely blue hat. this blue key	1	6
+the key is indeed a neat yellow tone. this yellow key	1	6
+the key is near a neat yellow hat. this yellow key	1	6
+the key is definitely a neat red hue. this red key	1	6
+the key is above a neat red hat. this red key	1	6
+you'll see that the key is red in color. this red key	4	6
+you will see a key, a red hat, and boxes. this red key	4	6
+the key is surely a lovely green tint. this green key	1	6
+the key is above a lovely green hat. this green key	1	6
+the key is definitely a pretty black shade. this black key	1	6
+the key is above a pretty black hat. this black key	1	6
+the key is definitely a lovely red hue. this red key	1	6
+the key is near a lovely red book. this red key	1	6
+you'll see that the key is red in color. this red key	4	6
+you will see a key, a red book, and boxes. this red key	4	6
+the key is surely a neat green hue. this green key	1	6
+the key is near a neat green book. this green key	1	6
+the key is certainly a nice black hue. this black key	1	6
+the key is near a nice black book. this black key	1	6
+the key is indeed a pretty yellow hue. this yellow key	1	6
+the key is near a pretty yellow book. this yellow key	1	6
+the key is clearly a pretty blue color. this blue key	1	6
+the key is above a pretty blue book. this blue key	1	6
+the key is indeed a stylish red tint. this red key	1	6
+the key is above a stylish red book. this red key	1	6
+the key is clearly a stylish green tint. this green key	1	6
+the key is above a stylish green book. this green key	1	6
+you'll find that the key is green in color. this green key	4	6
+you will find a key, a green book, and bikes. this green key	4	6
+the key is definitely a nice black hue. this black key	1	6
+the key is above a nice black book. this black key	1	6
+you'll see that the key is black in color. this black key	4	6
+you will see a key, a black book, and scarves. this black key	4	6
+the key is definitely a neat yellow hue. this yellow key	1	6
+the key is above a neat yellow book. this yellow key	1	6
+you'll find that the key is yellow in color. this yellow key	4	6
+you will find a key, a yellow book, and scarves. this yellow key	4	6
+the key is definitely a nice blue color. this blue key	1	6
+the key is below a nice blue book. this blue key	1	6
+you'll notice that the key is blue in color. this blue key	4	6
+you will notice a key, a blue book, and pens. this blue key	4	6
+the key is indeed a pretty black color. this black key	1	6
+the key is below a pretty black book. this black key	1	6
+the key is surely a pretty blue shade. this blue key	1	6
+the key is under a pretty blue book. this blue key	1	6
+the key is indeed a pretty red shade. this red key	1	6
+the key is under a pretty red book. this red key	1	6
+the key is indeed a nice green tone. this green key	1	6
+the key is under a nice green book. this green key	1	6
+you'll see that the key is green in color. this green key	4	6
+you will see a key, a green book, and pens. this green key	4	6
+the key is certainly a pretty blue color. this blue key	1	6
+the key is near a pretty blue chair. this blue key	1	6
+you'll notice that the key is blue in color. this blue key	4	6
+you will notice a key, a blue chair, and boxes. this blue key	4	6
+the key is clearly a stylish red tone. this red key	1	6
+the key is near a stylish red chair. this red key	1	6
+the key is indeed a stylish yellow tint. this yellow key	1	6
+the key is near a stylish yellow chair. this yellow key	1	6
+you'll notice that the key is yellow in color. this yellow key	4	6
+you will notice a key, a yellow chair, and bikes. this yellow key	4	6
+the key is clearly a nice blue tone. this blue key	1	6
+the key is below a nice blue chair. this blue key	1	6
+the key is clearly a nice green hue. this green key	1	6
+the key is below a nice green chair. this green key	1	6
+the key is definitely a stylish black color. this black key	1	6
+the key is below a stylish black chair. this black key	1	6
+the key is clearly a lovely yellow hue. this yellow key	1	6
+the key is below a lovely yellow chair. this yellow key	1	6
+the chair is indeed a stylish blue tint. this blue chair	1	6
+the chair is near a stylish blue lamp. this blue chair	1	6
+the chair is certainly a pretty red color. this red chair	1	6
+the chair is near a pretty red lamp. this red chair	1	6
+the chair is surely a nice black shade. this black chair	1	6
+the chair is near a nice black lamp. this black chair	1	6
+the chair is surely a lovely yellow shade. this yellow chair	1	6
+the chair is near a lovely yellow lamp. this yellow chair	1	6
+the chair is definitely a lovely blue tone. this blue chair	1	6
+the chair is below a lovely blue lamp. this blue chair	1	6
+the chair is certainly a nice red shade. this red chair	1	6
+the chair is below a nice red lamp. this red chair	1	6
+you'll notice that the chair is red in color. this red chair	4	6
+you will notice a chair, a red lamp, and toys. this red chair	4	6
+the chair is certainly a stylish green hue. this green chair	1	6
+the chair is below a stylish green lamp. this green chair	1	6
+you'll find that the chair is green in color. this green chair	4	6
+you will find a chair, a green lamp, and toys. this green chair	4	6
+the chair is definitely a nice blue color. this blue chair	1	6
+the chair is near a nice blue hat. this blue chair	1	6
+you'll find that the chair is blue in color. this blue chair	4	6
+you will find a chair, a blue hat, and pens. this blue chair	4	6
+the chair is certainly a lovely red color. this red chair	1	6
+the chair is near a lovely red hat. this red chair	1	6
+you'll see that the chair is red in color. this red chair	4	6
+you will see a chair, a red hat, and bags. this red chair	4	6
+the chair is indeed a lovely green hue. this green chair	1	6
+the chair is near a lovely green hat. this green chair	1	6
+the chair is clearly a lovely black color. this black chair	1	6
+the chair is near a lovely black hat. this black chair	1	6
+the chair is clearly a lovely yellow hue. this yellow chair	1	6
+the chair is near a lovely yellow hat. this yellow chair	1	6
+you'll notice that the chair is yellow in color. this yellow chair	4	6
+you will notice a chair, a yellow hat, and scarves. this yellow chair	4	6
+the chair is definitely a pretty blue shade. this blue chair	1	6
+the chair is under a pretty blue hat. this blue chair	1	6
+you'll notice that the chair is blue in color. this blue chair	4	6
+you will notice a chair, a blue hat, and boxes. this blue chair	4	6
+the chair is definitely a lovely green hue. this green chair	1	6
+the chair is under a lovely green hat. this green chair	1	6
+the chair is certainly a pretty black hue. this black chair	1	6
+the chair is under a pretty black hat. this black chair	1	6
+you'll notice that the chair is black in color. this black chair	4	6
+you will notice a chair, a black hat, and pens. this black chair	4	6
+the chair is definitely a stylish yellow shade. this yellow chair	1	6
+the chair is under a stylish yellow hat. this yellow chair	1	6
+the chair is surely a lovely blue hue. this blue chair	1	6
+the chair is near a lovely blue book. this blue chair	1	6
+the chair is certainly a neat red tint. this red chair	1	6
+the chair is near a neat red book. this red chair	1	6
+the chair is indeed a neat green tint. this green chair	1	6
+the chair is near a neat green book. this green chair	1	6
+you'll notice that the chair is green in color. this green chair	4	6
+you will notice a chair, a green book, and pens. this green chair	4	6
+the chair is surely a nice black color. this black chair	1	6
+the chair is near a nice black book. this black chair	1	6
+you'll find that the chair is black in color. this black chair	4	6
+you will find a chair, a black book, and bags. this black chair	4	6
+the chair is clearly a neat yellow tint. this yellow chair	1	6
+the chair is near a neat yellow book. this yellow chair	1	6
+the chair is surely a neat blue tint. this blue chair	1	6
+the chair is near a neat blue key. this blue chair	1	6
+the chair is clearly a stylish red color. this red chair	1	6
+the chair is near a stylish red key. this red chair	1	6
+the chair is indeed a lovely green shade. this green chair	1	6
+the chair is near a lovely green key. this green chair	1	6
+the chair is clearly a stylish black tone. this black chair	1	6
+the chair is near a stylish black key. this black chair	1	6
+the chair is certainly a neat yellow tint. this yellow chair	1	6
+the chair is near a neat yellow key. this yellow chair	1	6
+the chair is definitely a stylish red tint. this red chair	1	6
+the chair is below a stylish red key. this red chair	1	6
+the chair is clearly a lovely green shade. this green chair	1	6
+the chair is below a lovely green key. this green chair	1	6
+the chair is certainly a nice black shade. this black chair	1	6
+the chair is below a nice black key. this black chair	1	6
+the chair is clearly a lovely yellow tint. this yellow chair	1	6
+the chair is below a lovely yellow key. this yellow chair	1	6
+you'll notice that the chair is yellow in color. this yellow chair	4	6
+you will notice a chair, a yellow key, and scarves. this yellow chair	4	6
